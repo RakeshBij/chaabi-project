@@ -44,7 +44,12 @@ const Sidebar = () => {
         </button>
         {/* The logo */}
         <div className="flex nav-logo">
-          <img src="../src/assets/image 1.png" alt="" className="pointer" />
+          <div></div>
+          <img
+            src="https://www.chaabi.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FchaabiLogo.ae532a35.png&w=384&q=75"
+            alt=""
+            className="pointer"
+          />
         </div>
         {/* The dashboard btn */}
         <div className="dashboard-btn pointer flex h-c v-c c-white poppins">

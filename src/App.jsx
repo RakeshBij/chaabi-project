@@ -9,9 +9,9 @@ const App = () => {
       <Sidebar />
       <div className="content">
         <div className="head-cont">
-          <div className="circle1"></div>
-          <div className="circle2"></div>
-          
+          {/* <div className="circle1"></div>
+          <div className="circle2"></div> */}
+
           <h1 className="poppins c-white">Hello, Puneet Dhiman</h1>
           <p className="c-white poppins">
             Following Is Your Organization’s Performance Summary
